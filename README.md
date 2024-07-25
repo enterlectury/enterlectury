@@ -27,7 +27,8 @@
 
 
 
-.
+</br>
+
 ### Lets Connect 👥:
 [![LinkedIn](https://img.shields.io/website?color=1DA1F2&label=LinkedIn&logo=linkedin&style=for-the-badge&url=https://www.linkedin.com/in/karan-c-a60531170/)](https://www.linkedin.com/in/enterlectury)
 [![Twitter](https://img.shields.io/twitter/follow/enterlectury?color=1DA1F2&label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fenterlectury)](https://twitter.com/enterlectury)
