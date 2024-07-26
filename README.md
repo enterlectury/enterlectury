@@ -6,7 +6,7 @@
 
 ## I'm a Cyber Security Enthusiast! 💼
  
- - I’m currently doing bug bounty.
+ - I’m currently doing bug hunting.
  - increasing skill on network security.
  - Goal : making internet safer
 
